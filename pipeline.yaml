@@ -1,4 +1,0 @@
-connector:
-  name: Sample connector name
-  identifier: id
-  description: Sample Kubernetes Connector Name
